@@ -7,4 +7,5 @@ Github ise, Git tabanlı bir bulut tabanlı hizmettir. Proje dosyalarınızı Gi
 
 Git ve Github, yazılım geliştirme sürecini kolaylaştırır, ekip çalışmasını destekler ve projelerinizi güvenli bir şekilde saklamanızı sağlar.
 
- 
+![image](https://github.com/user-attachments/assets/d8486175-6137-4e05-8b3a-b46b97bde188)
+![image](https://github.com/user-attachments/assets/0bb8fca1-8c59-4c23-beff-32e46646825b)
